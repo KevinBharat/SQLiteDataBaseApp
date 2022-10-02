@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">Login</string>
+    <string name="description">Enter Your login details</string>
+    <string name="hint_emali">Enter email</string>
+    <string name="hint_password">Enter password</string>
+    <string name="hint_Search">Search here</string>
+    <string name="Order_ID">Order ID :</string>
+    <string name="Date">Date :</string>
+    <string name="Status">Status :</string>
+    <string name="Amount">Amount :</string>
+    <string name="No.of_Product">No.of Product :</string>
+</resources>

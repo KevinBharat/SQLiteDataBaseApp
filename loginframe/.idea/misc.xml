@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg.xml" value="0.133" />
+        <entry key="app/src/main/res/drawable/bg_account.xml" value="0.2025" />
+        <entry key="app/src/main/res/drawable/bg_payl.xml" value="0.1745" />
+        <entry key="app/src/main/res/drawable/btn_bg_radio.xml" value="0.17" />
+        <entry key="app/src/main/res/drawable/btn_bg_rr.xml" value="0.17" />
+        <entry key="app/src/main/res/drawable/btn_radio.xml" value="0.1615" />
+        <entry key="app/src/main/res/drawable/btn_submit.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/edt_bg.xml" value="0.133" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.133" />
+        <entry key="app/src/main/res/drawable/ic_baseline_pause_circle_outline_24.xml" value="0.1745" />
+        <entry key="app/src/main/res/drawable/ic_email.xml" value="0.133" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/ic_useu.xml" value="0.19" />
+        <entry key="app/src/main/res/drawable/shivambg.xml" value="0.187" />
+        <entry key="app/src/main/res/layout/activity_exam.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_liner2.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_rascal_radio.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/part2.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/rascal_radio_button.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/rascalradi_controler.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/rascalradio_ad.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/rascalradiologo.xml" value="0.35625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

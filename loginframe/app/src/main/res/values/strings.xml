@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">loginframe</string>
+    <string name="title">Create Account</string>
+    <string name="u_name">User name</string>
+    <string name="emailid">Email ID</string>
+    <string name="password">Password</string>
+    <string name="agree">I Read and agree to</string>
+    <string name="terms">Terms Conditions</string>
+    <string name="btn_sumit">Register Now</string>
+    <string name="login">Already have an account?</string>
+    <string name="logi1">Login</string>
+    <string name="media">Or Register using social Media</string>
+</resources>

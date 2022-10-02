@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">loginform</string>
+    <string name="tv_title">Welcome Back</string>
+    <string name="tv_hading">Login back into your account</string>
+    <string name="tv_login">Log in</string>
+    <string name="tv_forgotpassword">forgotpassword</string>
+    <string name="btn_login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="password">password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="tv_botem">Don\'t have on account yet?</string>
+    <string name="join">Join Now</string>
+</resources>

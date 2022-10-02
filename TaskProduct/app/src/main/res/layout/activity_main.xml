@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MainActivity">
+    <LinearLayout
+        android:id="@+id/layout_title"
+        style="@style/login_tv"
+        android:layout_marginTop="70dp"
+        android:orientation="vertical"
+        android:paddingStart="30dp">
+        <TextView
+            style="@style/login_tv"
+            android:text="@string/login"
+            android:textSize="34dp"
+            android:textColor="@color/app_pcolor"
+
+            />
+        <TextView
+            style="@style/login_tv"
+            android:layout_marginTop="10dp"
+            android:text="@string/description"
+            android:textSize="15dp"
+
+
+            />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/login_tv"
+        android:orientation="vertical"
+        android:layout_marginTop="150dp"
+        android:paddingStart="30dp"
+        android:paddingEnd="20dp"
+        android:layout_below="@+id/layout_title">
+        <RelativeLayout
+            style="@style/login_tv">
+            <EditText
+                android:id="@+id/edt_email"
+                style="@style/edit_text"
+                android:hint="@string/hint_emali"
+                android:drawableLeft="@drawable/email_ico"/>
+            <View
+                android:id="@+id/pviewid"
+                style="@style/v_view" />
+            <View
+                android:id="@+id/email_back_view"
+                android:layout_below="@id/edt_email"
+                style="@style/h_view" />
+        </RelativeLayout>
+        <RelativeLayout
+            style="@style/login_tv"
+            android:layout_marginTop="20dp">
+            <EditText
+                android:id="@+id/edt_password"
+                style="@style/edit_text"
+                android:inputType="textPassword"
+                android:hint="@string/hint_password"
+                android:drawableLeft="@drawable/password_ico"
+                android:drawableRight="@drawable/eye_disabled_ico"
+                />
+            <View
+                android:id="@+id/pass_viewid"
+                style="@style/v_view" />
+            <View
+                android:id="@+id/pass_back_view"
+                android:layout_below="@+id/edt_password"
+                style="@style/h_view"/>
+        </RelativeLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_login"
+            style="@style/btn_login"
+            />
+    </LinearLayout>
+</RelativeLayout>

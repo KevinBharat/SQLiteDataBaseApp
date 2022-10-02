@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="login">Login</string>
+    <string name="emil">Emile</string>
+    <string name="userEmail">Enter your Email</string>
+    <string name="pass">Password</string>
+    <string name="passhi">Entre your Password</string>
+    <string name="forgot">ForgotPassword?</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">signup</string>
+    <string name="tv_l0_with">or login with</string>
+</resources>
